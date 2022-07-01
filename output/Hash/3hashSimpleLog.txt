@@ -1,0 +1,3 @@
+---------------------------- TABALA HASH FINALIZADA------------------------------------
+ Informando o numero de colisoes: 9796
+ Informando o numero de itens da Tabela: 1629557975
